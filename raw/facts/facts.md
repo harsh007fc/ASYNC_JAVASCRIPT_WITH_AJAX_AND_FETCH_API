@@ -8,3 +8,5 @@
                     2 ->  promises (es6/es2015)
                     3 ->  async/await
 * use json validators to validate json
+* every api have different protocol to send get req and get output
+* url of chuck norris jokes is http://www.icndb.com/api/
